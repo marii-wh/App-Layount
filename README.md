@@ -1,11 +1,12 @@
 # App Layount
 
 Sistema desenvolvido como atividade vinculada ao módulo 2 do curso Desenvolvimento WEB.
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Mariana Fiuza Do Nascimento
 
-A few resources to get you started if this is your first Flutter project:
+Talento-Tech
+
+Universidade Estadual de Ponta Grossa
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
